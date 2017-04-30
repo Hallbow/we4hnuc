@@ -1,4 +1,0 @@
-eclipse.preferences.version=1
-validator.Checked=WebRoot/WEB-INF/common/footer.jsp,WebRoot/login.jsp,WebRoot/plugins,WebRoot/WEB-INF/common,WebRoot/WEB-INF/common/head.jsp,WebRoot/lostAndFound.jsp,WebRoot/index.jsp
-validator.Revalidate=true
-validator.Unchecked=
