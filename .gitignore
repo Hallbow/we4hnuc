@@ -1,6 +1,9 @@
-/nbproject
-/build
 /.externalToolBuilders
 /.idea
-/.we4hnuc.iml
-/.×îÖÕÐÞ¸Ä.txt
+/.settings
+we4hnuc.iml
+æœ€ç»ˆä¿®æ”¹.txt
+.classpath
+.project
+.gitignore
+.tern-project
