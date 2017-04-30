@@ -1,9 +1,9 @@
 /.externalToolBuilders
 /.idea
 /.settings
-we4hnuc.iml
-最终修改.txt
-.classpath
-.project
-.gitignore
-.tern-project
+/we4hnuc.iml
+/最终修改.txt
+/.classpath
+/.project
+/.gitignore
+/.tern-project
